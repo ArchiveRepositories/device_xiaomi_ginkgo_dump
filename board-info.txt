@@ -1,0 +1,4 @@
+require version-baseband=4.3.1-00270-NICOBAR_GEN_PACK-1.317803.1.340483.2
+require version-modem=2021-01-2522:22:18
+require version-trustzone=TZ.XF.5.1.1-00117
+require version-vendor=1612370124
